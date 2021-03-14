@@ -1,6 +1,6 @@
-# Amazon Scrapper
+# Snap Scrap
 
-The objective of Amazon Scrapper project is to scrap amazon.com and get Product details.
+The objective of Snap Scrap project is to scrap different e-commerce sites and to get Product details.
 
 ### Install Notes
 
